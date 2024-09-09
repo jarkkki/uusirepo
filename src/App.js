@@ -3,8 +3,8 @@ import ExpenseItem from './components/ExpenseItem';
 function App() {
   return (
     <div>
-      <h2>Hello World!</h2>
-      <p>Oma Nimi / VAMK / BIT</p>
+      <ExpenseItem></ExpenseItem>
+      <p>Jarno Hantula / VAMK / BIT</p>
     </div>
   );
 }

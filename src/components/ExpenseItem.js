@@ -12,4 +12,4 @@ function ExpenseItem() {
     );
 }
 
-export default ExpanseItem;
+export default ExpenseItem;
