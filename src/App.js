@@ -34,7 +34,7 @@ function App() {
   
   return (
     <div>
-      <NewExpense />
+      <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses}/>
       <p>Jarno Hantula / Vamk/ BIT</p>
       </div>
